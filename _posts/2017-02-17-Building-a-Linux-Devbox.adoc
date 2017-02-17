@@ -1,0 +1,8 @@
+= Building a Linux Devbox
+:published_at: 2017-02-17
+:hp-tags: devbox, machine-learning
+
+Instructions on how to build a linux devbox for machine learning.
+
+image::https://d267cvn3rvuq91.cloudfront.net/i/images/ai_0.jpg[]
+
