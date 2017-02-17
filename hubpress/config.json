@@ -4,7 +4,13 @@
     "repositoryName": "harvard-visionlab.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Harvard Visionlab"
+  },
+  "socialnetwork": {
+    "email": "alvarez@wjh.harvard.edu"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
