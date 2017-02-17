@@ -1,0 +1,9 @@
+= First Hubpress Blog
+:published_at: 2017-02-17
+:hp-tags: HubPress, Blog, Open Source,
+    
+    this is a block of code yo
+    
+image::https://d267cvn3rvuq91.cloudfront.net/i/images/ai_0.jpg?sw=1500
+
+video::KCylB780zSM[youtube]
