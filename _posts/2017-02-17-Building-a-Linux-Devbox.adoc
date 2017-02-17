@@ -4,5 +4,17 @@
 
 Instructions on how to build a linux devbox for machine learning.
 
-image::https://d267cvn3rvuq91.cloudfront.net/i/images/ai_0.jpg[]
+// image::https://d267cvn3rvuq91.cloudfront.net/i/images/ai_0.jpg[]
+
+==== Parts
+
+[.float-group]
+--
+[.left]
+image::/images/case.jpg[case,200,200,float="left"]
+--
+
+image::/images/case.jpg[case,200,200,float="left",align="center"]
+
+* The box: Corsair Carbide Series Air 540 High Airflow ATX Cube Case https://www.amazon.com/Corsair-Carbide-Windowed-Performance-Computer/dp/B00H8JLM94/ref=sr_1_fkmr3_1?ie=UTF8&qid=1463069360&sr=8-1-fkmr3&keywords=Course+air+cube+540+case[*amazon*]
 
