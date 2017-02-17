@@ -4,6 +4,6 @@
     
     this is a block of code yo
     
-image::https://d267cvn3rvuq91.cloudfront.net/i/images/ai_0.jpg?sw=1500
+image::https://d267cvn3rvuq91.cloudfront.net/i/images/ai_0.jpg[]
 
 video::KCylB780zSM[youtube]
