@@ -11,6 +11,7 @@ Instructions on how to build a linux devbox for machine learning.
 [.float-group]
 --
 [.left]
+.The Box!
 image::/images/case.jpg[case,200,200,float="left"]
 --
 
