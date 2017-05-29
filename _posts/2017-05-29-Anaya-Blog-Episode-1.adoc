@@ -6,5 +6,6 @@ This is what Anaya has to say today.
 
 thththtwq
 
-// image::https://vignette4.wikia.nocookie.net/parody/images/d/d9/Elmo.jpeg/revision/latest?cb=20160324213958[]
+image::https://vignette4.wikia.nocookie.net/parody/images/d/d9/Elmo.jpeg/revision/latest?cb=20160324213958[]
 
+image::https://s-media-cache-ak0.pinimg.com/originals/05/91/4f/05914f3df7b231a66f18aed8fe6f7552.jpg[]
